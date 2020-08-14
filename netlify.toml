@@ -1,0 +1,6 @@
+[[headers]]
+  for = "/*"
+  
+  [headers.values]
+    Status = "Status: 503 Service Temporarily Unavailable"
+    Retry-After = "3600"
