@@ -1,3 +1,8 @@
+[[redirects]]
+  from = "/*"
+  to = "/status.html"
+  status = 503
+  
 [[headers]]
   for = "/*"
   
